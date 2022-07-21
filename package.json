@@ -1,5 +1,8 @@
 {
-  "name": "react-component-library-test",
+  "name": "@dziugaspeciulevicius/react-component-library-test",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/react-component-library-test"
+  },
   "version": "1.0.0",
   "description": "A react component library",
   "scripts": {
